@@ -28,7 +28,7 @@
     "crypto-browserify": "^3.12.0",
     "diff": "^5.1.0",
     "file-saver": "^2.0.5",
-    "github-markdown-css": "^5.2.0",
+    "github-markdown-css": "^5.5.1",
     "gpt-3-encoder": "^1.1.4",
     "graphql": "^16.6.0",
     "i18next": "^22.4.15",

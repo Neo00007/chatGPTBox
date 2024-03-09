@@ -20,7 +20,7 @@
   ],
   "dependencies": {
     "@nem035/gpt-3-encoder": "^1.1.7",
-    "@picocss/pico": "^1.5.9",
+    "@picocss/pico": "^1.5.12",
     "@primer/octicons-react": "^18.3.0",
     "buffer": "^6.0.3",
     "claude-ai": "^1.2.2",
